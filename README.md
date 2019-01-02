@@ -1,2 +1,2 @@
 # ZINDI-PROJECT
-This repository contains all my my solution to projects and competitions on zindi.africa
+This repository contains all my my solution to projects and competitions on ![zindi.africa](http://zindi.africa)
